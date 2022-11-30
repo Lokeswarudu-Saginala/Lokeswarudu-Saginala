@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lokeswarudu-Saginala
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Selenium automation
 - 📫 How to reach me lokeshwarudu143@gmail.com
 
